@@ -1,0 +1,4 @@
+Shortest Path Length:
+18
+Shortest Path:
+22 -> 26 -> 36 -> 43 -> 46
